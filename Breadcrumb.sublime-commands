@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Breadcrumb: Refresh",
+        "command": "breadcrumb_refresh"
+    },
+]
